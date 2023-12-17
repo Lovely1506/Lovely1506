@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lovely kumari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lovely1506&label=Profile%20views&color=0e75b6&style=flat" alt="lovely1506" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/lovely-k-22a137263?](https://www.linkedin.com/in/lovely-k-22a137263?)
